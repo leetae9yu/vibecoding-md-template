@@ -1,7 +1,7 @@
 # vibecoding-md-template
 Collection of MD files I use for my Vibe-Coding
 
-### CONSTITION.md
+### CONSTITUTION.md
 It defines the whole workflow rule.
 My workflow goes like
 - Build my plans with Planner
